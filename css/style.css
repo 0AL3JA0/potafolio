@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+  } 
+body {
+      margin: 0;
+      padding: 0;
+      background-color: rgb(149, 27, 149);
+  }
+.container{
+    width: 100%;
+    height: 100vh;
+  }
+.fotoinicio{
+margin-top: 5rem;
+}
+.fotoo{
+    margin-top: 5rem; 
+    text-align: center;
+}
+.logoo{
+  margin-top: 5rem;
+}
+.acordion{
+  border-color: rgb(77, 77, 182);
+  border: 20px 20px solid;
+  
+}
+.navegador{
+  border-color: rgb(77, 77, 182);
+  border: 5px 5px solid;
+}
+.footer{
+  padding: 20px;
+}
+.footer p {
+  text-align: center;
+}
+.instagram {
+  width: 5%;
+}
+.hoja{
+  text-align: center;
+}
